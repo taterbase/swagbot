@@ -24,7 +24,8 @@
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
     "underscore": "~1.5.2",
     "clark": "0.0.6",
-    "githubot": "~0.4.1"
+    "githubot": "~0.4.1",
+    "flip": "~0.1.0"
   },
   "engines": {
     "node": ">= 0.8.x",
