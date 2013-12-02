@@ -13,4 +13,5 @@
 , "zombies.coffee"
 , "pivotalstorylisten.coffee"
 , "github-pulls.coffee"
+, "flip.coffee"
 ]
