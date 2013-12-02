@@ -1,1 +1,16 @@
-["redis-brain.coffee", "shipit.coffee", "plusplus.coffee"]
+[
+  "ackbar"
+, "commandlinefu.coffee"
+, "facepalm.coffee"
+, "github-issue-link.coffee"
+, "grumpycat.coffee"
+, "karma.coffee"
+, "redis-brain.coffee"
+, "robot-memes.coffee"
+, "shipit.coffee"
+, "yoda-pictures.coffee"
+, "yoda-quotes.coffee"
+, "zombies.coffee"
+, "pivotalstorylisten.coffee"
+, "github-pulls.coffee"
+]
