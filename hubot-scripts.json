@@ -14,4 +14,5 @@
 , "pivotalstorylisten.coffee"
 , "github-pulls.coffee"
 , "flip.coffee"
+, "emoji.coffee"
 ]
