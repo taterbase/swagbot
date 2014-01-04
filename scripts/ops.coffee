@@ -1,4 +1,5 @@
 oppable = [
+  "supershabam"
   "taterbase"
   "Robdor"
   "version2beta"
