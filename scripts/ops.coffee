@@ -4,6 +4,7 @@ oppable = [
   "Robdor"
   "version2beta"
   "altj"
+  "king_bozar"
   "addisonj"
   "jergason"
   "jesusabdullah"
