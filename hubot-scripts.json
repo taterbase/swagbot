@@ -4,7 +4,6 @@
 , "facepalm.coffee"
 , "github-issue-link.coffee"
 , "grumpycat.coffee"
-, "karma.coffee"
 , "redis-brain.coffee"
 , "robot-memes.coffee"
 , "shipit.coffee"
